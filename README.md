@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I’m a Developer!
+💻 Passionate about programming, technology, and creativity.
+🚀 Always learning, building projects, and improving my skills.
+🛠️ Languages & Technologies
+Languages I use:
+JavaScript
+Python
+HTML
+CSS
+Currently learning:
+C
+Canva
+🌱 About Me
+🔭 Exploring the world of software development.
+📚 Constantly learning new technologies.
+💡 Turning ideas into code.
+🎯 Working on improving my programming skills.
+📫 Connect with Me
+📸 Instagram: @your_instagram
+✈️ Telegram: @your_telegram
 
-<!--
-**bikl-ui/bikl-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
