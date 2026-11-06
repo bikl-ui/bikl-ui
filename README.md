@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile! ⭐</b>
+  <b>⭐ Thanks for visiting my profile! я работаю в морге ⭐</b> 
 </p>
